@@ -11,17 +11,17 @@ This project is a URL shortener service that allows users to create shortened li
 
 ## Screenshots
 
-### Main Dashboard
-![Main Dashboard](image1.jpg)
-The main dashboard shows existing shortened links, their QR codes, and options to create new links.
-
 ### Homepage
-![Homepage](image2.jpg)
+![Homepage](Home Page.png)
 The homepage advertises the service as "The only URL Shortener you'll ever need!"
 
 ### Login/Signup Page
 ![Login/Signup](image3.jpg)
 Users can log in to existing accounts or sign up for new ones.
+
+### Main Dashboard
+![Main Dashboard](image1.jpg)
+The main dashboard shows existing shortened links, their QR codes, and options to create new links.
 
 ### Link Statistics
 ![Link Statistics](image4.jpg)
