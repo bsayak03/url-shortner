@@ -36,7 +36,16 @@ Detailed statistics are provided for each shortened link, including total clicks
 
 ## Technologies Used
 
-- [List the technologies/frameworks used in the project]
+- **React**: A JavaScript library for building user interfaces
+- **React Router**: For handling routing in the application
+- **Supabase**: A Backend-as-a-Service (BaaS) platform for database and authentication
+- **Recharts**: A charting library for React
+- **Tailwind CSS**: A utility-first CSS framework
+- **Shadcn UI**: A collection of re-usable components built with Tailwind CSS
+- **Yup**: A JavaScript schema builder for value parsing and validation
+- **UA Parser JS**: A library to detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data
+- **React QR Code Logo**: For generating QR codes
+- **React Spinners**: For loading animations
 
 ## Installation
 
