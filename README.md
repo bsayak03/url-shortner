@@ -47,9 +47,43 @@ Detailed statistics are provided for each shortened link, including total clicks
 - **React QR Code Logo**: For generating QR codes
 - **React Spinners**: For loading animations
 
-## Installation
+## Installation Guide
 
-[Provide installation instructions here]
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+2. Install dependencies:
+3. Set up environment variables:
+Create a `.env` file in the root directory and add the following variables:
+4. Start the development server:
+5. Open your browser and navigate to `http://localhost:5173` to view the application.
+
+## Features
+
+- User authentication (signup, login, logout)
+- Create shortened URLs
+- Custom URL slugs
+- QR code generation for shortened URLs
+- Dashboard to manage and view statistics for shortened URLs
+- Click tracking and analytics (device type, location)
+
+## Project Structure
+
+- `src/components`: React components
+- `src/pages`: Page components
+- `src/db`: API functions for interacting with Supabase
+- `src/hooks`: Custom React hooks
+- `src/layouts`: Layout components
+- `src/context`: React context for global state management
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+  
 
 ## Contributing
 
