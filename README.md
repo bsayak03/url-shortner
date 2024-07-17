@@ -16,15 +16,15 @@ This project is a URL shortener service that allows users to create shortened li
 The homepage advertises the service as "The only URL Shortener you'll ever need!"
 
 ### Login/Signup Page
-![Login/Signup](./screenshots/loginPage.png)
+![Login/Signup](./loginPage.png)
 Users can log in to existing accounts or sign up for new ones.
 
 ### Main Dashboard
-![Main Dashboard](./screenshots/createLinkPage.png)
+![Main Dashboard](./dashboard.png)
 The main dashboard shows existing shortened links, their QR codes, and options to create new links.
 
 ### Link Statistics
-![Link Statistics](./screenshots/analytics.png)
+![Link Statistics](./analytics.png)
 Detailed statistics are provided for each shortened link, including total clicks, location data, and device information.
 
 ## Usage
