@@ -79,16 +79,3 @@ Create a `.env` file in the root directory and add the following variables:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-  
-
-## Contributing
-
-[Instructions for how others can contribute to the project]
-
-## License
-
-[Specify the license under which this project is released]
